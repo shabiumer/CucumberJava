@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TestERunner" project="CucumberFramework" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="runners.TestERunner" time="6.992">
-    <testsuite name="Feature: Automate End2End Test" time="6.992">
-      <testcase name="The purpose of this feature is to test end to end integration" classname="Automate End2End Test" time="6.992"/>
-    </testsuite>
-  </testsuite>
-</testrun>
